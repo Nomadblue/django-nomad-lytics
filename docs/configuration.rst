@@ -2,8 +2,8 @@
 Configuration
 =============
 
-Initial setup
-=============
+Setup
+=====
 
 NOMADLYTICS_EVENTS
 ------------------
