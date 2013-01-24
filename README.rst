@@ -12,5 +12,5 @@ as Mixpanel, Google Analytics, or others.
 Read the latest documentation on `Read the docs`_ for installation,
 configuration and customization instructions.
 
-.. _`Read the docs`: http://readthedocs.org/docs/django-nomadblog/en/latest/
+.. _`Read the docs`: http://readthedocs.org/docs/django-nomadlytics/en/latest/
 
