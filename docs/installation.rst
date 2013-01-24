@@ -6,7 +6,7 @@ Dependencies
 ============
 
 * `libsaas`_: django-nomadlytics uses this app to push the events to track
-to the different services.
+  to the different services.
 * `django-celery`_ (optional): if you want to track events asynchronously (recommended)
 
 .. _libsaas: https://github.com/ducksboard/libsaas
